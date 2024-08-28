@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ketimps.github.io/sitemap.html.gz
+Sitemap: https://ketimps.github.io/app/sitemap.html.gz
+Sitemap: https://ketimps.github.io/assets/sitemap.html.gz
+Sitemap: https://ketimps.github.io/css/sitemap.html.gz
+Sitemap: https://ketimps.github.io/includes/sitemap.html.gz
+Sitemap: https://ketimps.github.io/item/sitemap.html.gz
+Sitemap: https://ketimps.github.io/src/sitemap.html.gz
